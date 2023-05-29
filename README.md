@@ -1,8 +1,10 @@
+# NOTICE
+This is extremely unfinished and was more made as a test to see if I could even make it. There is currently no way to respond to events, (i.e there isn't a function for like msg.reply("content")) you can only receive data from Discord, though the ability to do that is planned.
+There are bugs bound to exist because I made this in 2ish hours
+
 # Minecord
 A Discord Bot library for CC: Tweaked
 This was inspired by Discord.JS
-
-This was made at midnight when I was also sleep deprived. Currently only supports receiving data from events, not responding. Since the json data is just passed back to the listener without any modifications (i.e, no extra functions like :reply("message") for example)
 
 # Usage
 Install Minecord.lua from this repo by using wget or any other methods
