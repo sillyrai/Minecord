@@ -3,7 +3,7 @@ This is extremely unfinished and was more made as a test to see if I could even 
 There are bugs bound to exist because I made this in 2ish hours
 
 # Minecord
-A Discord Bot library for CC: Tweaked
+A Discord Bot library for CC: Tweaked.
 This was inspired by Discord.JS
 
 # Usage
